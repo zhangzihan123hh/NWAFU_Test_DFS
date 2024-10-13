@@ -3,7 +3,8 @@
 ### 请阅读Issues中笔者笔记
 * 入口：https://github.com/zhangzihan123hh/NWAFU_Test_DFS/issues/1
 ### 代码文件在BFS.h||BFS.cpp中
-* 入口：https://github.com/zhangzihan123hh/NWAFU_Test_DFS/blob/main/BFS/BFS/BFS.h
+* BFS.h入口：https://github.com/zhangzihan123hh/NWAFU_Test_DFS/blob/main/BFS/BFS/BFS.h
+* BFS.cpp入口：https://github.com/zhangzihan123hh/NWAFU_Test_DFS/blob/main/BFS/BFS/BFS.cpp
 ### 题目描述
 
 设计一个算法找一条从迷宫入口到出口的最短路径。

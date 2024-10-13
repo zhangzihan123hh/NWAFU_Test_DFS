@@ -1,6 +1,7 @@
 # 西北农林科技大学数据结构实习题目
 ## 广度优先搜索解决迷宫问题
 ### 请阅读Issues中笔者笔记
+* 入口：https://github.com/zhangzihan123hh/NWAFU_Test_DFS/issues/1
 ### 题目描述
 
 设计一个算法找一条从迷宫入口到出口的最短路径。

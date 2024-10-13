@@ -1,7 +1,10 @@
+#include"BFS.h"
+
 int main() {
-	/*int Row, Col; cin >> Row >> Col;
+	int Row, Col; cin >> Row >> Col;
 	Board test(Row+2, Col+2);
-	test.Show();*/
+	queue q(Row * Col);
+	test.Search(q);
 
 
 }
